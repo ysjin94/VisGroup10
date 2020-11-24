@@ -2,7 +2,7 @@
 ## Group Member:
 - Sunjin Yoon : SunJin.Yoon07@myhunter.cuny.edu
 - Mahir Mahboob : 
-- Alvin Rosario :
+- Alvin Rosario : ahweeen@gmail.com
 - Jethro Moodley : jetzbond@gmail.com
 
 ### [Presentation Link](https://docs.google.com/presentation/d/1EXwLZmvVWJ47go8JIoNd63haPY5dRVNyVdu21HQZmWY/edit?usp=sharing)
