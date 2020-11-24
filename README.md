@@ -1,7 +1,7 @@
 # Vis_Group10
 ## Group Member:
-- Sunjin Yoon : SunJin.Yoon07@myhunter.cuny.edu
-- Mahir Mahboob : 
+- Sunjin Yoon : sunjin.Yoon07@myhunter.cuny.edu
+- Mahir Mahboob : mahir.mahboob21@myhunter.cuny.edu
 - Alvin Rosario : ahweeen@gmail.com
 - Jethro Moodley : jetzbond@gmail.com
 
