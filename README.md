@@ -7,3 +7,4 @@
 
 ### [Presentation Link](https://docs.google.com/presentation/d/1EXwLZmvVWJ47go8JIoNd63haPY5dRVNyVdu21HQZmWY/edit?usp=sharing)
 ### [Research Paper Link](https://docs.google.com/document/d/1ou1e0XpcIW417ulFKkB-urauibOW_5fj33zEtAKRx6M/edit)
+### [Research paper PDF](https://www.overleaf.com/project/5fbdaf06fff400b3730b8d0d)
